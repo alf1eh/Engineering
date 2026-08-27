@@ -5,12 +5,14 @@ Repository containing all my engineering projects, organized by level.
 ## Directory Structure
 
 ```
+LEVEL 3
 /Foundation Year/
   └─ Core concepts and fundamentals
   
 /WOLFRS/
   └─ Projects
-  
+
+LEVEL 4
 /First Year/
   └─ First year university projects
   
